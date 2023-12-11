@@ -7,7 +7,6 @@ apt install figlet -y
 apt install openssh
 apt install zsh
 apt install git
-figlet Basic Installation
 apt install toilet -y
 apt install cowsay -y
 apt install nano -y
@@ -17,3 +16,5 @@ cd Termux-Banner
 sh t-ban.sh
 git clone https://github.com/jubairbro/Termux-Banner
 ```
+1: [telegram group ](https://t.me/jubairff)
+2: [facebook group ](https://facebook.com/groups/jubairbrofreenet/)
