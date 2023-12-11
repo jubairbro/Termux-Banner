@@ -1,3 +1,6 @@
+
+#!/bin/bash
+
 clear
 apt update
 apt upgrade
@@ -10,6 +13,8 @@ apt install ruby -y
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
-echo -e "[1m Now Run bash t-ban.sh...!!!"
+echo -e "\e[1m Now Run \e[32mbash t-ban.sh\e[0m...!!!"
 echo
-echo -e "[1m[32m Developed by :[33m Jubair bro (8h4i)"
+echo -e "\e[1m\e[32m Developed by :\e[33m Jubair bro (8h4i)"
+echo
+echo
